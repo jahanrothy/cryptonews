@@ -1,2 +1,8 @@
 @layer base {
 }
+
+:root {
+  --backgroundColor: #edf4fc;
+  --inputWidth: 407px;
+  --imgwidth: 500px;
+}
