@@ -2,7 +2,9 @@
 }
 
 :root {
-  --backgroundColor: #edf4fc;
+  --backgroundColor: #ebf4fb;
+  --cartColor: #edf3fa;
   --inputWidth: 407px;
-  --imgwidth: 500px;
+  --imgwidth: 600px;
+  --cartWidth: 500px;
 }
